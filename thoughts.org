@@ -1,0 +1,6 @@
+* Game Plan
+  1. Gather the list of "given numbers" into GN.
+  2. Gather the list of "visible counts" into VC.
+  3. Fill in the grid w/ given #s.
+  4. Use visible counts as constraints.
+
